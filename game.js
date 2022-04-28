@@ -4,7 +4,7 @@ var level = 1;
 var row = 0;
 var col = 0;
 var attempts = 0;
-const word = ["mwert","yuiobcvbnm","tacroqlbtmpgiqe"];
+const word = ["qwemt","yuiobcvbnm","tacroqlbtmpgiqe"];
 const ques = [["First letter of the name of person who invented Facebook","First letter of source of oxygen","The Great _all of China",
             "First letter of animal which has a trunk","First letter of the name of holy book of muslims"],["First letter of a vehicle that runs on water",
             "First letter of the only country which has an ocean named after it","First letter of an object that can attract metal objects to it",
@@ -15,7 +15,7 @@ const ques = [["First letter of the name of person who invented Facebook","First
             "What comes once in a minute, twice in a moment, but never in a thousand years?","Which letter always comes first?","What is the beginning of eternity and the end of time and space?",
             "I am in a river, but not in a lake, I am in computer, but not in a T.V, and I am in rain, but not in snow.","What is the difference between here and there ?",
             "Which letter of the alphabet is a part of your face?","What part of London is in Brazil?"]];
-const ans = [["r","t","w","e","q"],["b","i","m","y","n","u","b","v","o","c"],["o","y","b","t","p","g","c","y","m","a","e","r","t","i","l"]];
+const ans = [["m","t","w","e","q"],["b","i","m","y","n","u","b","v","o","c"],["o","y","b","t","p","g","c","y","m","a","e","r","t","i","l"]];
 var correct = 0;
 window.onload = function(){
     initialize();
