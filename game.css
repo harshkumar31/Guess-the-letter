@@ -1,0 +1,131 @@
+html
+{
+    background-color: #6699ff;
+}
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+hr
+{
+    width: 500px;
+    background-color: black;
+    border-color: black;
+}
+
+#question
+{
+    border-radius: 25px;
+    background: #33cc33;
+    padding: 20px; 
+    width: 500px; 
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+}
+#title
+{
+    font-size: 36px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border-radius: 25px;
+    background: #33cc33;
+    padding: 20px; 
+    width: 400px;
+    height: 45px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+}
+
+
+#level {
+    border-radius: 25px;
+    background: #33cc33;
+    padding: 10px; 
+    width: 70px;
+    height: 50px;  
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+}
+
+#attempt
+{
+    line-height: 25px;
+    border-radius: 25px;
+    background: #ff471a;
+    padding: 15px; 
+    width: 180px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+}
+
+#board
+{
+    width : 350px;
+    height : 400px;
+    margin: 0 auto;
+    margin-top: 3px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#tot
+{
+    border-style: solid;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #3399ff;
+    border-radius: 25px;
+}
+
+.tile
+{
+    /* Box */
+    border: 2px solid lightgray;
+    width: 60px;
+    height: 60px;
+    margin: 2.5px;
+    background-color: #fff;
+
+    /* Text */
+    color: black;
+    font-size: 36px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-3 {
+  appearance: none;
+  background-color: green;
+  border: 1px solid rgba(27, 31, 35, .15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  padding: 6px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  white-space: nowrap;
+}
