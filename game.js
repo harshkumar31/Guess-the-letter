@@ -10,12 +10,12 @@ const ques = [["First letter of a colour related to bull","First letter of sourc
             "First letter of the only country which has an ocean named after it","First letter of an object that can attract metal objects to it",
             "_oga","First letter of the spot where birds lay eggs","First letter of the thing that is required in rain","First letter of synonym of prohibit",
             "First letter of second planet from the Sun","First letter of the word which is both colour and fruit","First letter of the capital of Egypt"],
-            ["Which letter is like a ring around your finger?","Which letter of the alphaber wants to know the reasons all the time?","I am a letter that buzzes around.Who am I?",
+            ["Which letter is like a ring around your finger?","Which letter of the alphabet wants to know the reasons all the time?","I am a letter that buzzes around.Who am I?",
             "What letter is a drink?","What letter is a vegetable?","What is the end of everything?","What letter is a body of water?","Alphabet which is most curious",
             "What comes once in a minute, twice in a moment, but never in a thousand years?","Which letter always comes first?","What is the beginning of eternity and the end of time and space?",
             "I am in a river, but not in a lake, I am in computer, but not in a T.V, and I am in rain, but not in snow.","What is the difference between here and there ?",
-            "Which letter of the alphabet is a part of your head?","What part of London is in Brazil?"]];
-const ans = [["r","t","w","e","q"],["b","i","m","y","n","u","b","v","o","c"],["o","q","b","t","p","g","c","q","m","a","e","r","t","i","l"]];
+            "Which letter of the alphabet is a part of your face?","What part of London is in Brazil?"]];
+const ans = [["r","t","w","e","q"],["b","i","m","y","n","u","b","v","o","c"],["o","y","b","t","p","g","c","y","m","a","e","r","t","i","l"]];
 var correct = 0;
 window.onload = function(){
     initialize();
