@@ -4,8 +4,8 @@ var level = 1;
 var row = 0;
 var col = 0;
 var attempts = 0;
-const word = ["qwert","yuiobcvbnm","tacroqlbtmpgiqe"];
-const ques = [["First letter of a colour related to bull","First letter of source of oxygen","The Great _all of China",
+const word = ["mwert","yuiobcvbnm","tacroqlbtmpgiqe"];
+const ques = [["First letter of the name of person who invented Facebook","First letter of source of oxygen","The Great _all of China",
             "First letter of animal which has a trunk","First letter of the name of holy book of muslims"],["First letter of a vehicle that runs on water",
             "First letter of the only country which has an ocean named after it","First letter of an object that can attract metal objects to it",
             "_oga","First letter of the spot where birds lay eggs","First letter of the thing that is required in rain","First letter of synonym of prohibit",
